@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "Test1",
+    "description": "Probando",
+    "version": "ehur42u3",
+    "id": "cl0pjnzon155108301s6ot1ziu9d",
+    "url": "https://app.amplication.com/cl0pjnzon155108301s6ot1ziu9d",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl0pjnzon155108301s6ot1ziu9d",
+      "authProvider": "Jwt"
+    }
+  }
+}
